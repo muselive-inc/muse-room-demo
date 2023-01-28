@@ -5,6 +5,7 @@ import { Canvas, useFrame } from '@react-three/fiber'
 import { OrbitControls, useGLTF, useAnimations } from "@react-three/drei";
 import { GLTF } from 'three/examples/jsm/loaders/GLTFLoader';
 import RoomModel from './models/musician_room.glb';
+import SampleAudio from './audio/audio.mp3';
 
 
 function Room() {
@@ -37,6 +38,7 @@ function App() {
 
   return (
     <div className="App">
+      <audio src={SampleAudio} autoPlay={true} />
       <Canvas
         style={{
           height: '100vh'
