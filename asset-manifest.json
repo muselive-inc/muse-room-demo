@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.91cb0e6d.js",
-    "static/js/787.433f1970.chunk.js": "/static/js/787.433f1970.chunk.js",
-    "static/media/musician_room.glb": "/static/media/musician_room.706e62fce9d843e73c7d.glb",
-    "static/media/audio.mp3": "/static/media/audio.199babb7e8a67f07bc65.mp3",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.91cb0e6d.js.map": "/static/js/main.91cb0e6d.js.map",
-    "787.433f1970.chunk.js.map": "/static/js/787.433f1970.chunk.js.map"
+    "main.css": "/muse-room-demo/static/css/main.073c9b0a.css",
+    "main.js": "/muse-room-demo/static/js/main.7e35d9f3.js",
+    "static/js/787.433f1970.chunk.js": "/muse-room-demo/static/js/787.433f1970.chunk.js",
+    "static/media/musician_room.glb": "/muse-room-demo/static/media/musician_room.706e62fce9d843e73c7d.glb",
+    "static/media/audio.mp3": "/muse-room-demo/static/media/audio.199babb7e8a67f07bc65.mp3",
+    "index.html": "/muse-room-demo/index.html",
+    "main.073c9b0a.css.map": "/muse-room-demo/static/css/main.073c9b0a.css.map",
+    "main.7e35d9f3.js.map": "/muse-room-demo/static/js/main.7e35d9f3.js.map",
+    "787.433f1970.chunk.js.map": "/muse-room-demo/static/js/787.433f1970.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.91cb0e6d.js"
+    "static/js/main.7e35d9f3.js"
   ]
 }
